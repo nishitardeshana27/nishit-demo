@@ -1,4 +1,4 @@
 # nishit-demo
 This is my first repo
 <br>
-Author - Nishit 
+Author - Nishit ardeshana
